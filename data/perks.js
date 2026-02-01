@@ -1,5 +1,5 @@
 
-const PERKS = [
+export const PERKS = [
 
 {
   id: "gunslinger",
